@@ -1,0 +1,32 @@
+---
+  title: "Introduction"
+  description: "A description of the Introduction class"
+  slug: "introduction"
+  course: "template"
+  content: 
+    - 
+      title: "Introduction"
+      description: "TBC"
+      slug: "intro"
+      type: "content"
+      rich: true
+    - 
+      title: "Live Class"
+      description: "Join the live discussion and share your thoughts via Twitter."
+      slug: "liveclass"
+      type: "liveclass"
+      duration: 300
+      intros: 
+      audio:
+    - 
+      title: "Further Reading"
+      description: "TBC"
+      slug: "reading"
+      type: "content"
+      rich: true
+    - 
+      title: "Extended Content"
+      description: "TBC"
+      slug: "extended"
+      type: "content"
+      rich: true
